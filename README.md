@@ -27,7 +27,7 @@ Open Git Bash (or any terminal) and run the following command to clone the repos
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/todo-list.git
+git clone https://github.com/yourusername/To-Do-list.git
 Navigate to the project folder:
 
 Go to the directory of your project:
