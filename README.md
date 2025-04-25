@@ -8,10 +8,6 @@ Welcome to **Visit Pakistan**, a website designed to showcase the most beautiful
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation Guide](#installation-guide)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Acknowledgements](#acknowledgements)
-- [License](#license)
 
 ## Introduction
 
