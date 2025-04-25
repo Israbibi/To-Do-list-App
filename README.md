@@ -1,41 +1,81 @@
-# Visit Pakistan - A Tour Website
+To-Do List
+A simple To-Do List application built with HTML, CSS, and JavaScript. This app allows users to manage their tasks, mark them as completed, and remove them when done.
 
-Welcome to **Visit Pakistan**, a website designed to showcase the most beautiful tourist destinations in Pakistan. This project was developed as part of my **Web Engineering** course in the 4th semester. The website highlights various tourist spots in Pakistan, providing useful information such as descriptions, images, and helpful travel tips.
+Features
+Add Tasks: Easily add new tasks to your to-do list.
 
-## Table of Contents
+Mark as Completed: Mark tasks as completed when you're done.
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation Guide](#installation-guide)
+Delete Tasks: Remove tasks from the list when they are no longer needed.
 
-## Introduction
+Clear All: Clear all tasks at once with the "Clear All" button.
 
-**Visit Pakistan** is an interactive website designed to inform tourists and travelers about the stunning destinations across Pakistan. From the majestic northern mountains to the vibrant cultural cities, this website serves as a guide for those looking to explore the beauty of Pakistan.
+Technologies Used
+HTML: Structure of the to-do list.
 
-## Features
+CSS: Styling for a simple and clean user interface.
 
-- **Home Page**: An overview of popular tourist destinations.
-- **Destination Pages**: Each destination has:
-  - Descriptions of the location
-  - Best times to visit
-  - Nearby attractions
-  - Beautiful images
-- **Interactive Gallery**: A simple, scrollable gallery showcasing images of the destinations.
-- **Responsive Design**: The website adjusts to different screen sizes for mobile and desktop users.
+JavaScript: Functionality for task management (adding, removing, completing tasks).
 
-## Technologies Used
+Installation
+To run this project locally on your machine, follow these steps:
 
-This project was built using the following technologies:
+Clone the repository:
 
-- **HTML5**: For structuring the content of the website.
-- **CSS3**: For styling and making the site visually appealing.
-- **JavaScript**: For adding interactivity, dynamic content, and user interactions.
+Open Git Bash (or any terminal) and run the following command to clone the repository:
 
-## Installation Guide
+bash
+Copy
+Edit
+git clone https://github.com/yourusername/todo-list.git
+Navigate to the project folder:
 
-To run this project locally on your machine:
+Go to the directory of your project:
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/VisitPakistan.git
+bash
+Copy
+Edit
+cd todo-list
+Open the project in your browser:
+
+Double-click on the index.html file or use the following command to open the file in your browser:
+
+On Windows:
+
+bash
+Copy
+Edit
+start index.html
+On macOS/Linux:
+
+bash
+Copy
+Edit
+open index.html
+Usage
+Add tasks: Type the task in the input field and click the "Add" button or press Enter to add it to your list.
+
+Mark tasks as completed: Click on the task to toggle between "completed" and "incomplete" states.
+
+Delete tasks: Click the "Delete" button next to a task to remove it.
+
+Clear all tasks: Click the "Clear All" button to delete all tasks at once.
+
+Screenshots
+(Optional: Add any relevant screenshots or GIFs here to showcase how the app looks.)
+
+Contributing
+Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
+
+Steps to Contribute:
+Fork the repository.
+
+Create a new branch (git checkout -b feature-branch).
+
+Make your changes.
+
+Commit your changes (git commit -am 'Add new feature').
+
+Push to your branch (git push origin feature-branch).
+
+Create a pull request.
